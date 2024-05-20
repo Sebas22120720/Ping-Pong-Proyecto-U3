@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9af51264-35a6-4a58-a1ae-d2c28841ec68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pingpongproyect2/ClientPingPong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pingpongproyect2/PingPongGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pingpongproyect2/ServerPingPong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2gTxZ4kp43C7BSHRGIvt1MxDtOl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClientPingPong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ServerPingPong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pingpongsingleplayer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/TicTacToe&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.pingpongproyect2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9af51264-35a6-4a58-a1ae-d2c28841ec68" name="Changes" comment="" />
+      <created>1715735420792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715735420792</updated>
+      <workItem from="1715735421788" duration="1877000" />
+      <workItem from="1715793654034" duration="174000" />
+      <workItem from="1715824060298" duration="1004000" />
+      <workItem from="1715825697133" duration="6000" />
+      <workItem from="1715825724346" duration="83000" />
+      <workItem from="1715825828361" duration="5000" />
+      <workItem from="1715825856339" duration="73000" />
+      <workItem from="1715825939225" duration="13000" />
+      <workItem from="1715825962129" duration="180000" />
+      <workItem from="1715826160624" duration="110000" />
+      <workItem from="1715826287626" duration="45000" />
+      <workItem from="1715962100623" duration="12000" />
+      <workItem from="1716056698768" duration="389000" />
+      <workItem from="1716057119940" duration="23000" />
+      <workItem from="1716057150567" duration="27000" />
+      <workItem from="1716057201187" duration="1408000" />
+      <workItem from="1716058740511" duration="6000" />
+      <workItem from="1716058753274" duration="45000" />
+      <workItem from="1716058809346" duration="13000" />
+      <workItem from="1716058833392" duration="9000" />
+      <workItem from="1716058849541" duration="156000" />
+      <workItem from="1716059033413" duration="844000" />
+      <workItem from="1716071005941" duration="666000" />
+      <workItem from="1716071731403" duration="186000" />
+      <workItem from="1716071929964" duration="119000" />
+      <workItem from="1716072073099" duration="11000" />
+      <workItem from="1716072091639" duration="18000" />
+      <workItem from="1716072126601" duration="81000" />
+      <workItem from="1716072219839" duration="870000" />
+      <workItem from="1716073176494" duration="83000" />
+      <workItem from="1716073281610" duration="1938000" />
+      <workItem from="1716076247297" duration="35000" />
+      <workItem from="1716080900806" duration="2203000" />
+      <workItem from="1716083193596" duration="5000" />
+      <workItem from="1716083256711" duration="37000" />
+      <workItem from="1716083309839" duration="24000" />
+      <workItem from="1716083349090" duration="33000" />
+      <workItem from="1716083391247" duration="262000" />
+      <workItem from="1716083894438" duration="25000" />
+      <workItem from="1716084150604" duration="7000000" />
+      <workItem from="1716128588113" duration="72000" />
+      <workItem from="1716130106582" duration="1334000" />
+      <workItem from="1716131949398" duration="6350000" />
+      <workItem from="1716153169514" duration="2420000" />
+      <workItem from="1716155624222" duration="130000" />
+      <workItem from="1716155772352" duration="2334000" />
+      <workItem from="1716158747069" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
